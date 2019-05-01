@@ -1,8 +1,6 @@
 {
-  // full version including commit
   "solidityVersion": "v0.5.1+commit.c8a2cb62",
   "contracts": [
-    //create this object for each contract you want to be run against security check
     {
       "name": "Origin",
       "path": "./contracts/origin.sol"
